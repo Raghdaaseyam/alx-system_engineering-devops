@@ -1,6 +1,2 @@
-#!/bin/bas
-i
-i
 #!/bin/bash
-echo "Hello , world "
-
+echo "Hello, World"
